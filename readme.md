@@ -1,0 +1,1 @@
+pip install langchain openai tiktoken python-dotenv
